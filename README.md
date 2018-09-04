@@ -104,7 +104,7 @@ CHAPTER  2	METHODOLOGY
 	2.1 Require Analysis	
 	2.2 Creating Acount	
 	2.3 Learning Python Program	
-	2.4 Creating Your First Flask Application	
+	2.4 Creating Flask Application	
 		
 CHAPTER 3	DESIGN AND IMPLEMENTATION	
 		
