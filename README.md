@@ -61,6 +61,8 @@ or indirectly towards the success of this project.
 
 						Group Member
 		Roll no	Name			Signature				Date
+		
+		
 		5CS-88				Ma Khaing Khaing Htwe		
 		5CS-89				Ma Aye Moe Aung		
 		5CS-90				Mg Thu Ya Tun		
@@ -72,9 +74,8 @@ or indirectly towards the success of this project.
 		
                   
 Supervisor      :	Dr. Wai Wai Zin
-Rank               :	Lecturer
-Department    :	Faculty of Computer Systems and Technologies
- University of Computer Studies (Mandalay)
+Rank            :	Lecturer
+Department      :	Faculty of Computer Systems and Technologies University of Computer Studies (Mandalay)
 
 
 
