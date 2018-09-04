@@ -89,9 +89,7 @@ Department      :	Faculty of Computer Systems and Technologies University of Com
 
 ABSTACTS		
 		
-ACKNOWLEDEMENTS		
-		
-DECLARATION		
+ACKNOWLEDEMENTS				
 		
 GROUP MEMBER LIST		
 		
