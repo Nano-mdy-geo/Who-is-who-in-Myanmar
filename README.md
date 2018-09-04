@@ -664,20 +664,6 @@ The project is intended to search detail of famous person in Myanmar. By using t
 •	Users can access the information from and device connected to the Internet using a standard browser. 
 •	There is no need for extra training of that person who is using it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 References
 http://www.yunkey9.com/
 https://www.jetbrains.com/pycharm/whatsnew/
