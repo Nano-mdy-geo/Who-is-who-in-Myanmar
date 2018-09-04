@@ -30,26 +30,13 @@ This is  Who Is Who In Myanmar
 
 
 
-                         			ABSTRACT
-Nowadays, data and information are used for a variety of purpose in organization. Many people can view and search data and information by using webpage on the internet. When Myanmar is developing in information technology (IT) gradually, website, web application and webpage play a crucial role. Webpages are widely used everywhere in the world such as education, health, industries, governments, administration and business sectors etc. Our webpage “Who is who in Myanmar” is created and it describes the biography and news of national leaders, parties, artists and many sectors of Myanmar. Our webpage is one kind of searching information in Myanmar. So, user can find about people who live in Myanmar in seconds by online and they do not need to go anywhere. Materialize and Material CSS framework, Cascading Style Sheet (CSS), Bootstrap and Hypertext Preprocessor (PHP), Hypertext Markup Language (HTML) MySQL (My Structure Query Language) are also used for adding style to web sites and making interactive webpages.
+                         			
+						ABSTRACT
+        Nowadays, data and information are used for a variety of purpose in organization. Many people can view and search data and information by using webpage on the internet. When Myanmar is developing in information technology (IT) gradually, website, web application and webpage play a crucial role. Webpages are widely used everywhere in the world such as education, health, industries, governments, administration and business sectors etc. Our webpage “Who is who in Myanmar” is created and it describes the biography and news of national leaders, parties, artists and many sectors of Myanmar. Our webpage is one kind of searching information in Myanmar. So, user can find about people who live in Myanmar in seconds by online and they do not need to go anywhere. Materialize and Material CSS framework, Cascading Style Sheet (CSS), Bootstrap and Hypertext Preprocessor (PHP), Hypertext Markup Language (HTML) MySQL (My Structure Query Language) are also used for adding style to web sites and making interactive webpages.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ACKNOWLEDGEMENTS
+                                                ACKNOWLEDGEMENTS
  
-First, we respectfully thank to U Kyaw Zwa Soe, the Rector of University of Computer Studies (Mandalay), for his kind permission to carry out this project, general guidance and workable environment during the period of study. 
+        First, we respectfully thank to U Kyaw Zwa Soe, the Rector of University of Computer Studies (Mandalay), for his kind permission to carry out this project, general guidance and workable environment during the period of study. 
 Secondly, we would like to respectfully thank Dr. Sann Sann Tint, our pro-rector of University of Computer Studies (Mandalay), for her kind permission to carry out our project.
          We deeply thanks to Director’s U Ravi Chhabra, CEO of GEO Mandalar Investment & Technology Company, for his guide way to create our project with successfully and nicely.
         We specially thank to our supervisor, Dr. Wai Wai Zin, Lecturer, Faculty of Computer Systems and Technologies, University of Computer Studies (Mandalay) for her valuable and constructive suggestions during the planning and development of this project. Her willingness to give her time so generously has been very much appreciated. Advice given by other academic lectures has been a great help in building the software solution.
