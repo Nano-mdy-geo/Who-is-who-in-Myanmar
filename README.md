@@ -177,15 +177,6 @@ E end forward
 B backward of word
 X delete character
 
-         
-Figure 2.1 Level 3 playing vim adventure game 
-
-
-
-
-
-
-
 2.2	 Creating Accounts
 
 
