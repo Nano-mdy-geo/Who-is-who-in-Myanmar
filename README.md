@@ -53,14 +53,14 @@ This is  Who Is Who In Myanmar
 				Project Id		Geo_Nano
 
 
-Group Member
-Roll no	Name	Signature	Date
-5CS-88	Ma Khaing Khaing Htwe		
-5CS-89	Ma Aye Moe Aung		
-5CS-90	Mg Thu Ya Tun		
-5CS-91	Ma Than Than Htwe		
-5CS-92	Ma Yoon Me Me Mon		
-5CS-163	Ma Phyu Thinzar Maung		
+						Group Member
+		Roll no	Name			Signature				Date
+		5CS-88				Ma Khaing Khaing Htwe		
+		5CS-89				Ma Aye Moe Aung		
+		5CS-90				Mg Thu Ya Tun		
+		5CS-91				Ma Than Than Htwe		
+		5CS-92				Ma Yoon Me Me Mon		
+		5CS-163				Ma Phyu Thinzar Maung		
 
 		
 		
