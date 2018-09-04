@@ -86,6 +86,7 @@ Department      :	Faculty of Computer Systems and Technologies University of Com
 
 
                                                          CONTENTS
+
 ABSTACTS		
 		
 ACKNOWLEDEMENTS		
@@ -119,7 +120,7 @@ REFERENCE
 
 
 
-Chapter (1)
+            						CHAPTER (1)
 Introduction
 
 Nowadays, web sites are used anywhere such as business, governmental, team, companies, organizations etc. Websites are typically dedicated to a particular topic or purpose ranging from entertainment and social networking for providing news and education. So, they are becoming an important part of our everyday life. Every user is capable to accept that information through this web sites.
@@ -153,7 +154,7 @@ User can view by following function:
     
 
 
-Chapter-(2)
+   							CHAPTER(2)
 METHODOLOGY
 
 
@@ -362,7 +363,7 @@ Figure 2.10 Create flask program with jinja template
 
 
 
-Chapter-(3)
+							CHAPTER (3)
 Design and Implementation
 Web Sites are Among popular website our created “Who is who in Myanmar”. Our website shows the biography famous people among in our country. Famous people such as candidate from parties, members of parliamentary, business leaders, celebrity (they are beauty pageant, model, actor, vocalist, directors, promoter, and so on.) and also can know the unique popular people(such as historical, figures, freedom, fighter, regional leader from parliament and very important to know about the famous people.). This site is intended only to view information such as Wikipedia.
 3.1 Who is who in Myanmar
@@ -662,7 +663,7 @@ This page search information of famous person in Myanmar. This page come back tu
 
 
 
-Chapter-(4)
+								CHAPTER (4)
 Conclusion
 4.1 Conclusion
 The project is intended to search detail of famous person in Myanmar. By using this website, user can view biography and can know their lifetime without time consuming. So we would like to invite you to visit our website. 
