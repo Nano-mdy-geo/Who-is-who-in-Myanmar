@@ -135,21 +135,23 @@ REFERENCE
  	To work and experience separate development roles to develop a product
 
 1.2 Project Scope
-This project is designed and implemented for biography of Myanmar people. The users of this system are: Admin and Normal users.
+    This project is designed and implemented for biography of Myanmar people. 
+    The users of this system are: Admin and Normal users.
 1.2.1	Admin
- 	Admin can manage all the actions: retrieve, insert, delete, update of the system and change up to date data information.
+ 	Admin can manage all the actions: retrieve, insert, delete, update of the system and 
+	change up to date data information.
 
 1.2.2	Normal users
-User can view by following function:
-•	Data information
-•	Famous people 
-•	Birthdate
-•	Father Name & Mother Name
-•	Education
-•	Ethnicity
-•	Religion
-•	Occupation
-•	Ward village
+        User can view by following function:
+	• Data information
+	• Famous people 
+	• Birthdate
+	• Father Name & Mother Name
+	• Education
+	• Ethnicity
+	• Religion
+	• Occupation
+	• Ward village
     
 
 
