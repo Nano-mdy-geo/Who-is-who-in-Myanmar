@@ -2,26 +2,30 @@
 This is  Who Is Who In Myanmar
 
 
-A PROJECT REPORT ON
-“Who is Who in Myanmar”
-       FOR
-UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
+							A PROJECT REPORT ON
+						
+							“Who is Who in Myanmar”
+       							       FOR
+						UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
 
-SUBMITTED IN PARTIAL FULFILLMENT OF
-INTERNSHIP PROJECT UNDER THE GUIDANCE OF
-Director
-U Ravi Chhabra
-Supervisor
-Dr. Wai Wai Zin
-SUMITTED BY
+						SUBMITTED IN PARTIAL FULFILLMENT OF
+					
+						INTERNSHIP PROJECT UNDER THE GUIDANCE OF
+								Director
+								U Ravi Chhabra
+								Supervisor
+								Dr. Wai Wai Zin
+							
+							SUMITTED BY
 
-Mg Thu Ya Tun	Ma Aye Moe Aung
-Ma Yoon Me Me Mon	Ma Khaing Khaing Htwe
-Ma Than Than Htwe	Ma Phyu Thinzar Maung
+						Mg Thu Ya Tun	Ma Aye Moe Aung
+						
+					Ma Yoon Me Me Mon	Ma Khaing Khaing Htwe
+					Ma Than Than Htwe	Ma Phyu Thinzar Maung
 
 
-UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
-September, 2018
+					UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
+							September, 2018
 
 
 
