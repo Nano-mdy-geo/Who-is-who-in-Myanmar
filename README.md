@@ -207,25 +207,18 @@ ix.	"Merge" your  branch to the master branch
 
   	This tutorial teaches you GitHub essentials like repositories, branches, commits,  and Pull Request. You'll create Hello Word repository and learn GitHub's Pull  Request workflow, a popular way to create and view code.
    First, we create  Github accounts and by learning GitHub Guide line with hello world repository.
- 
-Figure 2.1 Hello Word GitHub Guide line
 
 Creating Repository
   When create a repository, we needs these facts are repository name(eg..Hello World) and write a short description and select initialize this repository with a README.
-
-
-
+  Ecah GitHub account to create the following repository:
  
-Figure 2.2 Create hello-world repository
-Ecah GitHub account to create the following repository:
- 
-i.	Python_exercise
-ii.	Coding_sprint
-iii.	Hello_Geo
-iv.	Flask-mega-tutorial
-v.	Tilde
-vi.	Hello-world
-vii.	Flask-with -jinja
+	i.   Python_exercise
+	ii.  Coding_sprint
+	iii. Hello_Geo
+	iv.  Flask-mega-tutorial
+	v.   Tilde
+	vi.  Hello-world
+	vii.  Flask-with -jinja
  
 Figure 2.3 Creating Repository in Nano-mdy-geo organization
 
