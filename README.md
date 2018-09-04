@@ -73,12 +73,6 @@ or indirectly towards the success of this project.
 		
 		
                   
-
-
-
-
-
-
 Supervisor      :	Dr. Wai Wai Zin
 Rank               :	Lecturer
 Department    :	Faculty of Computer Systems and Technologies
@@ -92,8 +86,7 @@ Department    :	Faculty of Computer Systems and Technologies
 
 
 
-Content
-		PAGE
+                                                         CONTENTS
 ABSTACTS		
 		
 ACKNOWLEDEMENTS		
@@ -131,7 +124,7 @@ Chapter (1)
 Introduction
 
 Nowadays, web sites are used anywhere such as business, governmental, team, companies, organizations etc. Websites are typically dedicated to a particular topic or purpose ranging from entertainment and social networking for providing news and education. So, they are becoming an important part of our everyday life. Every user is capable to accept that information through this web sites.
-        Myanmar is one of most interesting places in South East Asia. The world ‘Myanmar’ represents all the ethnic groups living in the country. The population of Myanmar is 60 million people that include politicians, business people leader, writers, artists, parties, members of parliamentary, business leaders, celebrity (they are beauty pageant, model, actor, vocalist, directors, promoter, and so on.) and also can know the unique popular people (such as historical, figures, freedom, fighter, regional leader from parliament and very important to know about the famous people.). 
+        Myanmar is one of most interesting places in South East Asia. The world ‘Myanmar’ represents all the ethnic groups living in the country. The population of Myanmar is 60 million people that include politicians, business people leader, writers, artists, parties, members of parliamentary, business leaders, celebrity (they are beauty pageant, model, actor, vocalist, directors, promoter, and so on.) and also can know the unique popular people such as historical, figures, freedom, fighter, regional leader from parliament and very important to know about the famous people. 
 1.1 Objectives
  	To know that how to use Github
  	To learn python programming fundamental
