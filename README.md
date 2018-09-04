@@ -92,9 +92,7 @@ ABSTACTS
 ACKNOWLEDEMENTS				
 		
 GROUP MEMBER LIST		
-		
-LIST OF FIGURES		
-		
+				
 CHAPTER  1	INTRODUCTION                                              	
 	1.1  Introduction	
 	1.2  Objectives	
