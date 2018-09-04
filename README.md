@@ -14,15 +14,15 @@ This is  Who Is Who In Myanmar
 						Director                  U Ravi Chhabra
 						Supervisor                Dr. Wai Wai Zin
 							
-							SUMITTED BY
+							     SUMITTED BY
 
-					Mg Thu Ya Tun	        Ma Aye Moe Aung
-				    	Ma Yoon Me Me Mon	Ma Khaing Khaing Htwe
-					Ma Than Than Htwe	Ma Phyu Thinzar Maung
+					          Mg Thu Ya Tun	        Ma Aye Moe Aung
+				    		Ma Yoon Me Me Mon	Ma Khaing Khaing Htwe
+						Ma Than Than Htwe	Ma Phyu Thinzar Maung
 
 
-					UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
-							September, 2018
+					        UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
+							     September, 2018
 
 
 
