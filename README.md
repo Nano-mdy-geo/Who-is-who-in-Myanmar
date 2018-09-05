@@ -253,18 +253,6 @@ Heroku is to perform many function with Python. We learn python code by connecti
 
 
 
-
-	
-Figure 2.8 Vim ex1.py in GitBush
-
-
-
-
-
-
-
-
-
 We run python exercise 50 with GitBush and run the program using the cd, touch, vim, git add and git comit repesectively.
  
 
