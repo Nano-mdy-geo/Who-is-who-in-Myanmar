@@ -237,10 +237,7 @@ We are making function with Hero Account.
 3. View   output from  Heroku 
 4.  Getting started  on Heroku with Python
  
-
-Figure 2.5 Heroku Log In     
-
-
+     
 We can create app at most five app on each account. Heroku  Apps are connected with Github Account by marking deploy master branch and delete this repository.
  
 
