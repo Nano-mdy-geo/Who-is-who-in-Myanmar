@@ -35,6 +35,7 @@ This is  Who Is Who In Myanmar
 
                          			
 						    ABSTRACT
+						    
         Nowadays, data and information are used for a variety of purpose in organization.Many people can view and search data and information by using webpage on the internet.When Myanmar is developing in information technology (IT) gradually, website, web application and webpage play a crucial role.Webpages are widely used everywhere in the world such as education, health, industries, governments, administration and business 	sectors etc.
 	Our webpage “Who is who in Myanmar” is created and it describes the biography and news of national leaders, parties, artists and many sectors of Myanmar. Our webpage is one kind of searching information in Myanmar. So, user can find about people who live in Myanmar in seconds by online and they do not need to go anywhere. Materialize and Material CSS framework, Cascading Style Sheet (CSS), and Hypertext Preprocessor (PHP), Hypertext Markup Language (HTML),  are also used for adding style to web sites and making interactive webpages.
 
@@ -289,22 +290,38 @@ Web Sites are Among popular website our created “Who is who in Myanmar”. Our
 
 
 3.2 Home Page
+
 This page shows about of  Our project’s topic. 
  
 Figure(3.2) Home Menu 
 3.3 About Page
+
 This page describe our project scanerio by clicking About link in Footer Tag.
  
 
 3.4 Spec Page
+
 This page describe our internship program flow by clicking Spec link in Footer Tag.
  
 Figure(3.4) Steps of Internship task
+
 3.5 Contact Page
+
 This page describe our roles by clicking Contact link in Footer Tag.
+
  Figure(3.5) Description of Group
+ 
 3.6 Author Page
-Our project shows information of person in myanmar. This data have in Author Page. Author page has five sub topics. They have member, party, business, celebrity and modern historical figure. Celebrity have five sub topics and Modern Historical Figures have three sub topics. These topics have famous person’s information in myanmar. 
+
+Our project shows information of person in myanmar.
+
+This data have in Author Page. Author page has five sub topics. 
+
+They have member, party, business, celebrity and modern historical figure.
+
+Celebrity have five sub topics and Modern Historical Figures have three sub topics. 
+
+These topics have famous person’s information in myanmar. 
  
 
 
@@ -318,7 +335,14 @@ Our project shows information of person in myanmar. This data have in Author Pag
 
 
 3.6.1 Members
-  Members of parlimentary try to develop our country with associated roles. Their biography and skill can be known in this page. For example, President U Win Myint and Daw Aung San Su Kyi.  
+
+  Members of parlimentary try to develop our country with associated roles.
+  
+  Their biography and skill can be known in this page.
+  
+  For example, President U Win Myint and Daw Aung San Su Kyi. 
+  
+  
 This page is clicking Member tab from Author page.
  
  
@@ -338,13 +362,26 @@ Figure(3.6.4) About of U Win Myint
 
 
 
-3.6.2 Party
-Governments have many parties. They are making ability to apply for developing our country. Many parties have appeared after freedom Era. For example, NLD and USDP parties are famous in myanmr.
+3.6.2 PARTY
+
+Governments have many parties.
+
+They are making ability to apply for developing our country.
+
+Many parties have appeared after freedom Era. For example, NLD and USDP parties are famous in myanmr.
+
 This page is clicking Party page from Author Page.
  
 3.6.3 Business Leader
-Business is one of the most important roles in each country.Everyone have to do business for lodging and bording.But some people can do not only for them but also for their country to improve their  business standard.In Myanmar,there are a few people like that.For example are as shown in the figure.
+
+Business is one of the most important roles in each country.
+
+Everyone have to do business for lodging and bording.
+
+But some people can do not only for them but also for their country to improve their  business standard.In Myanmar,there are a few people like that.For example are as shown in the figure.
+
 Daw Win Win Tint is a founder of modern mini market(City Mart).
+
 U Zaw Zaw is a CEO of Myanmar Football and Max Company Owner.
 
 
@@ -376,12 +413,21 @@ Figure(3.6.8) U Zaw Zaw- Business
 
 
 3.6.4 Celebrity Page
+
 This page is clicking Celebrities Tab in Author page.
  
 Figure(3.6..9) Celebrities View in Author Page
 
 3.6.4.1 Model
-As my opinion,model is the image of the country because most of the models have been participating in many international contests.Many people from different countries are watching what they will do.If the models do right or wrong,people will say them by name including their country name that they are good or not.Model from Myanmar as an example is Moe Set Wine.
+
+As my opinion,model is the image of the country because most of the models have been participating in many international contests.
+
+Many people from different countries are watching what they will do.
+
+If the models do right or wrong,people will say them by name including their country name that they are good or not.
+
+Model from Myanmar as an example is Moe Set Wine.
+
 This page is clicking model tab in cele tab from Author page.
  
 		Figure(3.6.10) Moe Set Wine-Model
@@ -396,7 +442,11 @@ This page is clicking model tab in cele tab from Author page.
 
 
 3.6.4.2 Actor
-In Myanmar;actors are only famous in our country since they are not Hollywood stars.But they gain a lot of love from Myanmar people as they try best to act.
+
+In Myanmar;actors are only famous in our country since they are not Hollywood stars.
+
+But they gain a lot of love from Myanmar people as they try best to act.
+
 This page is clicking actor tab in cele tab from Author page.
  
  
@@ -409,7 +459,13 @@ This page is clicking actor tab in cele tab from Author page.
 
 
 3.6.4.3 Director
-Myanmar directors are still trying and trying and trying to become their movies international. Directors are making different film types such as comedy, drama and horror but almost movies are comedy film type. For example, Wyne
+
+Myanmar directors are still trying and trying and trying to become their movies international.
+
+Directors are making different film types such as comedy, drama and horror but almost movies are comedy film type.
+
+For example, Wyne
+
 This page is clicking director tab in cele tab from Author page.
  
 			Figure(3.6.12) Wyne-Director
@@ -422,7 +478,11 @@ This page is clicking director tab in cele tab from Author page.
 
 
 3.6.4.4 Vocalist
-Singer entertain the people with their songs.The songs of the singers can release the stress of the people.Song types are R&B, Rock, Pop, Classical and so on.Sai Sai is the example of the famous singer in Myanmar.
+
+Singer entertain the people with their songs.The songs of the singers can release the stress of the people.
+
+Song types are R&B, Rock, Pop, Classical and so on.Sai Sai is the example of the famous singer in Myanmar.
+
 This page is clicking vocalist tab in cele tab from Author page.
  
 Figure(3.6.13) Sai Sai-Vocalist
@@ -439,7 +499,9 @@ Figure(3.6.13) Sai Sai-Vocalist
 
 
 3.6.4.5 Beauty Pageant
+
 Desribe above as Model, for example, Han Lay.
+
 This page is clicking beauty tab in cele tab from Author page.
  
 				Figure(3.6.14)Han Lay-Beauty Peagant
@@ -455,6 +517,7 @@ This page is clicking beauty tab in cele tab from Author page.
 
 
 3.6.5 Modern Historical Figure
+
 This page is clicking Modern Historical Figures Tab in Author page.
  
                    figure(3.6.15) Modern Historical in Myanmar
@@ -472,7 +535,19 @@ This page is clicking Modern Historical Figures Tab in Author page.
 
 
 3.6.5.1 33Comrades Page
-Comrades donated their lives for our country. They did not scare to lose their lives. They only cared to have the independence of our country. Because of them, we can stand as the Myanmar people nowadays. The situation of our country may be bad but we still love our country and we hope the future of the Myanmar is better than today. I’m so proud to represent about the comrades
+
+Comrades donated their lives for our country.
+
+They did not scare to lose their lives. 
+
+They only cared to have the independence of our country.
+
+Because of them, we can stand as the Myanmar people nowadays.
+
+The situation of our country may be bad but we still love our country and we hope the future of the Myanmar is better than today. 
+
+I’m so proud to represent about the comrades
+
 This page is clicking comrade tab in modern historical figure tab from Author page.
  
 Figure(3.6.16) General Aung San-33Comrade
@@ -494,7 +569,12 @@ Figure(3.6.17) Master Zaya-33Comrade
 
 
 3.6.5.2 Regional Leader
-Minister make the best tasks in associate with roles each their towns. They are supported for developing country in some places. For example, U Phyo Min Thein is carried to solve traffic problems in Yangon Devision.
+
+Minister make the best tasks in associate with roles each their towns. 
+
+They are supported for developing country in some places. For example, U Phyo Min Thein is carried to solve traffic problems in Yangon Devision.
+
+
 This page is clicking regional leader tab in modern historical figure tab from Author page.
  
  
@@ -504,7 +584,14 @@ Figure(3.6.18) U Phyo Min Thein-Regional Leader
 
 
 3.6.5.3 Freedom Fighter
-Freedom Fighter is trying to do modern and development country. They don’t care other things and they take care of their country do well. In my country, Daw Aung Sun Su Kyi is one of the most in Freedom Fighter. She’s information is describe in above (member page).
+
+Freedom Fighter is trying to do modern and development country.
+
+They don’t care other things and they take care of their country do well.
+
+In my country, Daw Aung Sun Su Kyi is one of the most in Freedom Fighter.
+
+She’s information is describe in above (member page).
 
 
 
