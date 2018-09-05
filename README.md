@@ -340,9 +340,6 @@ Figure(3.6.4) About of U Win Myint
 Governments have many parties. They are making ability to apply for developing our country. Many parties have appeared after freedom Era. For example, NLD and USDP parties are famous in myanmr.
 This page is clicking Party page from Author Page.
  
-Figure(3.6.5) USDP-Party
- 
-Figure(3.6.6)NLD-Party
 3.6.3 Business Leader
 Business is one of the most important roles in each country.Everyone have to do business for lodging and bording.But some people can do not only for them but also for their country to improve their  business standard.In Myanmar,there are a few people like that.For example are as shown in the figure.
 Daw Win Win Tint is a founder of modern mini market(City Mart).
