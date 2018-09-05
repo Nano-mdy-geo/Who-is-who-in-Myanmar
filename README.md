@@ -268,7 +268,6 @@ Flask is a lightweight Web framework written in Python. Flask started out as an 
 
 
  
-Figure 2.10 Create flask program with jinja template
 
 
 
