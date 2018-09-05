@@ -378,18 +378,6 @@ This page is clicking Celebrities Tab in Author page.
  
 Figure(3.6..9) Celebrities View in Author Page
 
-
-
-
-
-
-
-
-
-
-
-
-
 3.6.4.1 Model
 As my opinion,model is the image of the country because most of the models have been participating in many international contests.Many people from different countries are watching what they will do.If the models do right or wrong,people will say them by name including their country name that they are good or not.Model from Myanmar as an example is Moe Set Wine.
 This page is clicking model tab in cele tab from Author page.
