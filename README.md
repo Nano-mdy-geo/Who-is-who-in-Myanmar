@@ -116,12 +116,10 @@ CHAPTER 4	CONCLUSION
 	4.1 Conclusion
 	4.2 Advantages		
 		
-
-
-
 Reference
 
-            						CHAPTER (1)
+            						
+							CHAPTER (1)
                                                        Introduction
 
         Nowadays, web sites are used anywhere such as business, governmental, team, companies, organizations etc. Websites are typically dedicated to a particular topic or purpose ranging from entertainment and social networking for providing news and education. So, they are becoming an important part of our everyday life. Every user is capable to accept that information through this web sites.
