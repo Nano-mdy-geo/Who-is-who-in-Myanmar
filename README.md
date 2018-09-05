@@ -303,7 +303,7 @@ This page describe our roles by clicking Contact link in Footer Tag.
 3.6 Author Page
 Our project shows information of person in myanmar. This data have in Author Page. Author page has five sub topics. They have member, party, business, celebrity and modern historical figure. Celebrity have five sub topics and Modern Historical Figures have three sub topics. These topics have famous person’s information in myanmar. 
  
-Figure(3.6) Author View
+
 
 
 
@@ -318,7 +318,6 @@ Figure(3.6) Author View
   Members of parlimentary try to develop our country with associated roles. Their biography and skill can be known in this page. For example, President U Win Myint and Daw Aung San Su Kyi.  
 This page is clicking Member tab from Author page.
  
-Figure(3.6.1) Daw Aung San Su Kyi- Member of parlimentary
  
 Figure(3.6.2) President U Win Myint-Member of Perlimentary
 You can click ‘read more’ button if you would like to do more.
