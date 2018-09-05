@@ -292,7 +292,7 @@ Figure(3.2) Home Menu
 3.3 About Page
 This page describe our project scanerio by clicking About link in Footer Tag.
  
-		Figure(3.3) About of Our Project View
+
 3.4 Spec Page
 This page describe our internship program flow by clicking Spec link in Footer Tag.
  
