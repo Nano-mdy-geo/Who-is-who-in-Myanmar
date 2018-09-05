@@ -240,9 +240,6 @@ We are making function with Hero Account.
  
      
 We can create app at most five app on each account. Heroku  Apps are connected with Github Account by marking deploy master branch and delete this repository.
- 
-
-Figure2.6 Creating  and deploy App output  with GitHub on Heroku 
 Heroku is to perform many function with Python. We learn python code by connecting with Heroku.
 
  
