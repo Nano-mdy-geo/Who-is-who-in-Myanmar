@@ -293,7 +293,6 @@ Web Sites are Among popular website our created “Who is who in Myanmar”. Our
 
 This page shows about of  Our project’s topic. 
  
-Figure(3.2) Home Menu 
 3.3 About Page
 
 This page describe our project scanerio by clicking About link in Footer Tag.
@@ -303,12 +302,7 @@ This page describe our project scanerio by clicking About link in Footer Tag.
 
 This page describe our internship program flow by clicking Spec link in Footer Tag.
  
-Figure(3.4) Steps of Internship task
-
-3.5 Contact Page
-
-This page describe our roles by clicking Contact link in Footer Tag.
-
+F
  Figure(3.5) Description of Group
  
 3.6 Author Page
