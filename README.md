@@ -189,7 +189,8 @@ iii.	Heroku  Account.
 
 2.2.1 Marking a GitHub Account
 
- GitHub is a code hosting platform for version control and collaboration .It lets you and others work together on projects from anywhere.
+ GitHub is a code hosting platform for version control and collaboration .It lets you and others
+ work together on projects from anywhere.
       
 2.2.1.1 How Git works?
 
@@ -229,8 +230,7 @@ We create code academy account by studying
 •	Learn  git tutorial and
 •	Learn the command line tutorial on code academy.              
 First, we create codecademy accounts and login in to codeacademy and to start the learn git and command line tutorial with GitHub account. 
- 
-Figure 2.4 Log in to Codecademy   
+    
 2.2.3 Create Heroku App Account
 We are making function with Hero Account.
 1.  Create   App on Heroku
@@ -246,7 +246,6 @@ Figure2.6 Creating  and deploy App output  with GitHub on Heroku
 Heroku is to perform many function with Python. We learn python code by connecting with Heroku.
 
  
-Figure 2.7 Getting Started on Heroku with Python
 
 
 
