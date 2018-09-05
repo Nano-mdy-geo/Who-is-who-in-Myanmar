@@ -33,10 +33,7 @@ This is  Who Is Who In Myanmar
 
                          			
 						    ABSTRACT
-        Nowadays, data and information are used for a variety of purpose in organization.
-	Many people can view and search data and information by using webpage on the internet.
-	When Myanmar is developing in information technology (IT) gradually, website, web application and webpage play a crucial role.
-	Webpages are widely used everywhere in the world such as education, health, industries, governments, administration and business 	sectors etc.
+        Nowadays, data and information are used for a variety of purpose in organization.Many people can view and search data and information by using webpage on the internet.When Myanmar is developing in information technology (IT) gradually, website, web application and webpage play a crucial role.Webpages are widely used everywhere in the world such as education, health, industries, governments, administration and business 	sectors etc.
 	Our webpage “Who is who in Myanmar” is created and it describes the biography and news of national leaders, parties, artists and many sectors of Myanmar. Our webpage is one kind of searching information in Myanmar. So, user can find about people who live in Myanmar in seconds by online and they do not need to go anywhere. Materialize and Material CSS framework, Cascading Style Sheet (CSS), Bootstrap and Hypertext Preprocessor (PHP), Hypertext Markup Language (HTML),  are also used for adding style to web sites and making interactive webpages.
 
                                                 
