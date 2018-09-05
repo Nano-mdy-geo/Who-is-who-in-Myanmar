@@ -18,7 +18,7 @@ This is  Who Is Who In Myanmar
 							
 							     SUMITTED BY
 
-					          Mg Thu Ya Tun	        Ma Aye Moe Aung
+					        Mg Thu Ya Tun	        Ma Aye Moe Aung
 				    		Ma Yoon Me Me Mon	Ma Khaing Khaing Htwe
 						Ma Than Than Htwe	Ma Phyu Thinzar Maung
 
