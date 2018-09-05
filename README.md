@@ -4,7 +4,7 @@ This is  Who Is Who In Myanmar
 
 							A PROJECT REPORT ON
 						
-							“Who is Who in Myanmar”
+							“Who Is Who In Myanmar”
 							
        							       FOR
 							       
