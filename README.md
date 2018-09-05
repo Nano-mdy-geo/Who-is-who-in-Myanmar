@@ -219,8 +219,6 @@ Creating Repository
 	v.   Tilde
 	vi.  Hello-world
 	vii.  Flask-with -jinja
- 
-Figure 2.3 Creating Repository in Nano-mdy-geo organization
 
 
 2.2.2 Making Code Academy Account
