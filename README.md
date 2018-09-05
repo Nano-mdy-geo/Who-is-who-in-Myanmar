@@ -258,7 +258,6 @@ We run python exercise 50 with GitBush and run the program using the cd, touch, 
 
 
 
-Figure 2.9Run python ex1.py
 2.4 Creating Flask Framework Application
 
 Flask is fun. This bold declaration is one of the first things you see when you view the official Flask documentation and, you will come to understand why so many Python developers agree.
