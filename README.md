@@ -244,15 +244,6 @@ Heroku is to perform many function with Python. We learn python code by connecti
 
 2.3 Learning Python Program
        We run python exercise 50 in GitBush source code editor with a Python application programming interface (API). Using GitBush command prompt, we use common commands are cd, touch, vim, git add, git commit, git push and so on.
-
-
-
-
-
-
-
-
-
 We run python exercise 50 with GitBush and run the program using the cd, touch, vim, git add and git comit repesectively.
  
 
