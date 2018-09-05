@@ -26,7 +26,7 @@ This is  Who Is Who In Myanmar
 						Ma Than Than Htwe	Ma Phyu Thinzar Maung
 
 
-					        UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
+					        UNIVERSITY OF COMPUTER STUDIES, (MANDALAY)
 						
 							     September, 2018
 
@@ -42,7 +42,7 @@ This is  Who Is Who In Myanmar
 						
 						ACKNOWLEDGEMENTS
  
-        First, we respectfully thank to U Kyaw Zwa Soe, the Rector of University of Computer Studies (Mandalay),for his
+        First, we respectfully thank to U Kyaw Zwa Soe, the Rector of University of Computer Studies, (Mandalay),for his
 kind permission to carry out this project, general guidance and workable environment during the period of study.
 	
 	Secondly, we would like to respectfully thank Dr. Sann Sann Tint, our pro-rector of University of 
