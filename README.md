@@ -4,11 +4,11 @@ This is  Who Is Who In Myanmar
 
 							A PROJECT REPORT ON
 						
-							“Who Is Who In Myanmar”
+							“WHO IS WHO IN MYANMAR"
 							
        							       FOR
 							       
-						UNIVERSITY OF COMPUTER STUDIES (MANDALAY)
+						UNIVERSITY OF COMPUTER STUDIES, (MANDALAY)
 
 						SUBMITTED IN PARTIAL FULFILLMENT OF
 					
@@ -19,8 +19,10 @@ This is  Who Is Who In Myanmar
 							
 							     SUMITTED BY
 
-					        Mg Thu Ya Tun	        Ma Aye Moe Aung
+					        Mg Thu Ya Tun          Ma Aye Moe Aung
+						
 				    		Ma Yoon Me Me Mon	Ma Khaing Khaing Htwe
+						
 						Ma Than Than Htwe	Ma Phyu Thinzar Maung
 
 
