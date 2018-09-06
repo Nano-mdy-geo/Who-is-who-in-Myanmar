@@ -300,8 +300,8 @@ This page describe our project scanerio by clicking About link in Footer Tag.
 
 This page describe our internship program flow by clicking Spec link in Footer Tag.
  
-F
- Figure(3.5) Description of Group
+
+ 
  
 3.6 Author Page
 
