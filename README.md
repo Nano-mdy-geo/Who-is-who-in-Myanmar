@@ -400,7 +400,7 @@ This pages are clicking Business leader tab from Author page.
  
 Figure(3.6.7) Daw Win Win Tint- Business
  
-Figure(3.6.8) U Zaw Zaw- Business
+
 
 
 
