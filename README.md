@@ -399,7 +399,7 @@ U Zaw Zaw is a CEO of Myanmar Football and Max Company Owner.
 
 This pages are clicking Business leader tab from Author page.
  
-Figure(3.6.7) Daw Win Win Tint- Business
+
  
 
 
