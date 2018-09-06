@@ -442,7 +442,7 @@ But they gain a lot of love from Myanmar people as they try best to act.
 This page is clicking actor tab in cele tab from Author page.
  
  
-		Figure(3.6.11) Nay Toe-Actor
+		
 
 
 
