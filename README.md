@@ -408,7 +408,7 @@ Figure(3.6.8) U Zaw Zaw- Business
 
 This page is clicking Celebrities Tab in Author page.
  
-Figure(3.6..9) Celebrities View in Author Page
+
 
 3.6.4.1 Model
 
