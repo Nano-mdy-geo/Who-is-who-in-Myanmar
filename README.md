@@ -627,7 +627,7 @@ This page shows latest update information in this website.
 This page search information of famous person in Myanmar. This page come back turn into Author Page.
  
 
-		Figure (3.8) Search Page
+		
 
 
 
