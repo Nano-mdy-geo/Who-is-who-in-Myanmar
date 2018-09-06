@@ -344,7 +344,7 @@ You can click ‘read more’ button if you would like to do more.
 Figure(3.6.3) About of Daw Aung San Su Kyi
 
  
-Figure(3.6.4) About of U Win Myint
+
 
 
 
