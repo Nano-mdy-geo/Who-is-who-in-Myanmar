@@ -338,7 +338,7 @@ These topics have famous person’s information in myanmar.
 This page is clicking Member tab from Author page.
  
  
-Figure(3.6.2) President U Win Myint-Member of Perlimentary
+
 You can click ‘read more’ button if you would like to do more.
  
 Figure(3.6.3) About of Daw Aung San Su Kyi
