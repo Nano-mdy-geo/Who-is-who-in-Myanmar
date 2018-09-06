@@ -459,7 +459,7 @@ For example, Wyne
 
 This page is clicking director tab in cele tab from Author page.
  
-			Figure(3.6.12) Wyne-Director
+			
 
 
 
