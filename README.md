@@ -422,7 +422,6 @@ Model from Myanmar as an example is Moe Set Wine.
 
 This page is clicking model tab in cele tab from Author page.
  
-		Figure(3.6.10) Moe Set Wine-Model
 
 
 
