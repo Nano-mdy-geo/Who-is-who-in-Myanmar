@@ -281,7 +281,6 @@ Flask is a lightweight Web framework written in Python. Flask started out as an 
 Web Sites are Among popular website our created “Who is who in Myanmar”. Our website shows the biography famous people among in our country. Famous people such as candidate from parties, members of parliamentary, business leaders, celebrity (they are beauty pageant, model, actor, vocalist, directors, promoter, and so on.) and also can know the unique popular people(such as historical, figures, freedom, fighter, regional leader from parliament and very important to know about the famous people.). This site is intended only to view information such as Wikipedia.
 3.1 Who is who in Myanmar
  
- Figure(3.1) Menu View
 
 
 
