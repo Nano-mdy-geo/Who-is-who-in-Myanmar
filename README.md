@@ -569,8 +569,7 @@ They are supported for developing country in some places. For example, U Phyo Mi
 
 This page is clicking regional leader tab in modern historical figure tab from Author page.
  
- 
-Figure(3.6.18) U Phyo Min Thein-Regional Leader
+
 
 
 
