@@ -341,7 +341,7 @@ This page is clicking Member tab from Author page.
 
 You can click ‘read more’ button if you would like to do more.
  
-Figure(3.6.3) About of Daw Aung San Su Kyi
+
 
  
 
