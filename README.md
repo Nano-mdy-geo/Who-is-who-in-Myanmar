@@ -477,7 +477,7 @@ Song types are R&B, Rock, Pop, Classical and so on.Sai Sai is the example of the
 
 This page is clicking vocalist tab in cele tab from Author page.
  
-Figure(3.6.13) Sai Sai-Vocalist
+
 
 
 
